@@ -1,1 +1,2 @@
-# dumb_code
+# some_code
+just a shell script
